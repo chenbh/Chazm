@@ -1,0 +1,200 @@
+Name the compound: NaBr
+sodium bromide
+Name the compound: CaO 
+calcium oxide
+Name the compound: Li2S
+lithium sulfide
+Name the compound: MgBr2
+magnesium bromide
+Name the compound: Be(OH)2 
+beryllium hydroxide
+Write the formula for: potassium iodide
+KI
+Write the formula for: magnesium oxide
+MgO
+Write the formula for: aluminum chloride
+AlCl3
+Write the formula for: sodium nitrate
+NaNO3
+Write the formula for: calcium carbonate
+CaCO3
+Write the formula for: lithium sulfate
+Li2SO4
+Write the formula for: beryllium phosphide
+Be3P2
+Write the formula for: magnesium hydroxide
+Mg(OH)2
+Write the formula for: sodium phosphate
+Na3PO4
+Write the formula for: aluminum carbonate
+Al2(CO3)3
+Write the formula for: calcium chloride
+CaCl2
+Write the formula for: sodium cyanide
+NaCN
+Write the formula for: aluminum oxide
+Al2O3
+Write the formula for: magnesium acetate
+Mg(C2H3O2)2
+Write the formula for: ammonium chloride
+NH4Cl
+Name the compound: SO3
+sulfur trioxide
+Name the compound: N2S
+dinitrogen sulfide
+Name the compound: PH3
+phosphorus trihydride
+Name the compound: BF3
+boron trifluoride
+Name the compound: P2Br4
+diphosphorus tetrabromide
+Name the compound: CO
+carbon monoxide
+Name the compound: SiO2
+silicon dioxide
+Name the compound: SF6
+sulfur hexafluoride
+Name the compound: NH3
+ammonia
+Name the compound: NO2
+nitrogen dioxide
+Write the formula for: nitrogen trichloride
+NCl3
+Write the formula for: boron carbide
+BC
+Write the formula for: dinitrogen trioxide
+N2O3
+Write the formula for: phosphorus pentafluoride
+PF5
+Write the formula for: methane
+CH4
+Write the formula for: sulfur dibromide
+SBr2
+Write the formula for: diboron tetrahydride
+B2H4
+Write the formula for: oxygen difluoride
+OF2
+Write the formula for: carbon disulfide
+CS2
+Write the formula for: nitrogen monoxide
+NO
+Is melting a piece of ice into liquid water considered a physical change? 
+yes
+Two clear, colorless substances were reacted together. The resultant product was bright yellow in colour. Did a chemical reaction occur? 
+yes
+Two purely liquid compounds react together and produce a precipitate. Did a chemical reaction occur during the reaction? 
+yes
+Bubbles were produced during a reaction. Did a chemical reaction occur during the reaction? 
+yes
+Evaporated water condenses into a liquid on a window pane. Is this a physical or chemical change? 
+physical
+A physical change can be easily reversed: true or false? 
+true
+A chemical change can be easily reversed: true or false? 
+false
+A piece of iron rusts. Is this a physical change?
+no
+A piece of paper accidentally catches on fire and burns into ash. Is this a chemical change? 
+yes
+The chemical composition of a substance has been altered. Would this be considered a physical change? 
+no
+Given the following equation: 2 C4H10 + 13 O2 ---> 8 CO2 + 10 H2O, show what the following molar ratio should be: C4H10 / O2
+2/13
+Given the following equation: 2 C4H10 + 13 O2 ---> 8 CO2 + 10 H2O, show what the following molar ratio should be: O2 / CO2 
+13/8
+Given the following equation: 2 C4H10 + 13 O2 ---> 8 CO2 + 10 H2O, show what the following molar ratio should be: O2 / H2O 
+13/10
+Given the following equation: 2 C4H10 + 13 O2 ---> 8 CO2 + 10 H2O, show what the following molar ratio should be: C4H10 / CO2 
+1/4
+Given the following equation: 2 C4H10 + 13 O2 ---> 8 CO2 + 10 H2O, show what the following molar ratio should be: C4H10 / H2O 
+1/5
+Given the following equation: 2 KClO3 ---> 2 KCl + 3 O2, how many moles of O2 can be produced by reacting 12.00 moles of KClO3? 
+18mol
+Given the following equation: 2 K + Cl2 ---> 2 KCl, how many grams of KCl is produced from 2.50 g of K and excess Cl2? 
+4.77g
+Given the following equation: 2 K + Cl2 ---> 2 KCl, how many grams of KCl is produced from 1.00 g of Cl2 and excess K? 
+2.10g
+Given the following equation: Na2O + H2O ---> 2 NaOH, how many grams of NaOH is produced from 1.20 x 10^2 grams of Na2O?
+155g
+Given the following equation: Na2O + H2O ---> 2 NaOH, how many grams of Na2O are required to produce 1.60 x 10^2 grams of NaOH?
+124g
+Given the following equation: 8 Fe + S8 ---> 8 FeS, what mass of iron is needed to react with 16.0 grams of sulfur? 
+27.9g
+Given the following equation: 8 Fe + S8 ---> 8 FeS, how many grams of FeS are produced if 16.0 grams of sulfur is reacted?
+43.9g
+Given the following equation: 2 NaClO3 ---> 2 NaCl + 3 O2, how many grams of O2 will 12.00 moles of NaClO3 produce? 
+576.0g
+Given the following equation: 2 NaClO3 ---> 2 NaCl + 3 O2, how many grams of NaCl are produced when 80.0 grams of O2 are produced?
+97.4g
+Given the following equation: Cu + 2 AgNO3 ---> Cu(NO3)2 + 2 Ag, how many moles of Cu are needed to react with 3.50 moles of AgNO3? 
+1.75mol
+The following equation is given: Cu + 2 AgNO3 ---> Cu(NO3)2 + 2 Ag. If 89.5 grams of Ag were produced, how many grams of Cu reacted?
+26.4g
+The following is given: Fe2O3 + 3 C ---> 2 Fe + 3 CO. If 25.0 kilograms of pure Fe2O3 is used, how many kilograms of iron can be produced? 
+17.5kg
+Given the photosynthetic reaction: 6 CO2 + 6 H2O ---> C6H12O6 + 6 O2, how many grams of CO2 are required to produce 120.0 grams of glucose?
+175.9g
+Given: 4NH3(g) + 5O2(g) ---> 4NO(g) + 6H2O(l). If 1.20mol of ammonia reacts, what is the total number of moles formed in the products?
+3.00mol
+How many moles does 10.00 grams of H2O have?
+0.5549mol
+How many moles does 32.00 grams of oxygen gas have?
+1.000mol
+How many grams is 100 moles of NaCl?
+5844g
+How many grams is 1 mole of HCl?
+36.46g
+How many significant digits is 3.00?
+3
+How many significant digits is 0.045?
+2
+How many significant digits is 5.034 x 10^3?
+4
+Is ice more dense than water? 
+no
+This is Boyles law: P1V1 = P2V2. True or false?
+true
+Daltons law is: PV = nRT. True of false?
+false
+Is Daltons law: At constant volume & temperature, total pressure exerted by a mixture of gases equals the sum of the pressures exerted by each gas?
+yes
+Convert 25.7 degrees Celsius to Kelvins.
+298.7K
+Convert 274 Kelvins to degrees Celsius. (You may represent (degrees Celsius) with (oC).)
+1oC
+Charles Law states that V1T1 = V2T2, true or false?
+false
+Charles Law states that V1/T1 = V2/T2, true or false?
+true
+AB + C ---> B + AC, is it true that this models a single displacement reaction?
+yes
+AB + DC ---> DB + AC, is it true that this models a decomposition reaction?
+no
+AB ---> A + B, is it true that this models a decomposition reaction?
+yes
+A + B ---> AB, is it true that this models a synthesizer reaction?
+no
+A + B ---> AB, is it true that this models a synthesis reaction?
+yes
+How many torr is 1 atmosphere equal to?
+760torr
+A sample of N2 gas has: volume = 478cm3 and pressure = 104.1kPa. What volume would the gas occupy at 88.2 kPa if the temperature remains constant?
+564cm3
+8.98 dm3 of hydrogen gas is collected at 38.8oC. Find the volume the gas will occupy at -39.9oC if the pressure remains constant. (Answer in dm3)
+6.71dm3
+At what temperature Celsius will 19.4 g of molecular oxygen, O2, exert a pressure of 1820 mmHg in a 5.12 L cylinder?
+165cm3
+Fill in the blank: 2H2 + O2 ---> ?H2O
+2
+Fill in the blank: C6H12O6 + ?O2 ---> 6CO2 + 6H2O + energy 
+6
+Find the empirical formula: C6H12O6
+CH2O
+Find the empirical formula: C5H8
+C5H8
+Given the following equation, CaCO3(s) ---> CO2(g) + CaO(s), how many grams of calcium carbonate will I need to form 3.45 liters of carbon dioxide?
+14.1g
+Given: C2H4(g) + 3O2(g) ---> 2CO2(g) + 2H2O(g), how many liters of water can be formed if 1.25 liters of ethylene are consumed in this reaction?
+2.50L
+2Cl2(g) + C2H2(g) ---> C2H2Cl4(l), how many liters of chlorine will be needed to make 75.0 grams of C2H2Cl4?
+21.8L

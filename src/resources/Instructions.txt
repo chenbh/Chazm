@@ -1,0 +1,27 @@
+I n s t r u c t i o n s
+~ There are 3 levels: Easy (10x10 maze), Medium (15x15 maze), Hard (25x25 maze)
+~ When you beat a level, you can continue to the next difficulty or end game.
+~ Use WSAD and arrow keys to move the character on the maze.
+~ The point of the maze if to finish with the least amount of steps possible.
+~ Every time you move, there will be a chance you will be "trapped".
+~ If you are "trapped", you must answer a chemistry question.
+~ If you answer the question correctly, you gain an experience point.
+~ If you answer the question incorrectly, you will lose a life. (You only have 5 lives!)
+~ Your lives will replenish once you beat a level.
+~ If you get enough experience points, your character will level up!
+~ There are 2 characters that you can unlock, making a total of 3 characters.
+~ For answering questions, please remember to do significant digits!
+~ For answering questions, please remember to enter your units!
+(!) Answers with units should have no spaces between the answer and the unit.
+(!) Units are in S.I. meaning that moles = mol, grams = g, litre = L, kalvin = K (capital).
+(!) Squared and cubed units are expressed as cm2 and cm3.
+ex. When answering, "What is half of 10cm", please answer 5cm instead of 5 cm.
+(!) When answering true/false questions, please answer "true" or "false".
+ex. True of false: The first element on the periodic table is hydrogen. Answer: true
+(!) When answering yes/no questions, please answer "yes" or "no".
+ex. Is hydrogen the first element on the periodic table? Answer: yes
+(!) When answering physical/chemical change questions, please answer "physical" or "chemical".
+ex. What change would you classify ice melting? Answer: physical
+(!) You may pause the game at any given time by pressing ESC.
+(!) If you wish to quit mid-game, press ESC and select "Quit".
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ Remember to have fun! ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~

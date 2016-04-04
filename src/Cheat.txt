@@ -1,0 +1,6 @@
+# Option to enable cheats set true to enable. Default is false
+allow cheats=true
+# Universal answer that will always correctly answer any question. Leaving it blank will allow blank to be the answer. Default is blank - ""
+universal answer=
+# Chance of a trap box appearing in decimal format (1.0 = 100%). Default is 0.20
+spawn percentage=0.20
